@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 Job.csv
+__pycache__
+logs.log
